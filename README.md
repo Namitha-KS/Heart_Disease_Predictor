@@ -7,6 +7,16 @@ With the use of UCI Kaggle dataset I have built a Machine Learning techniques to
 ## TECH STACKS
 
 Libraries of Python :
+>> Numpy
+>> Pandas
+>> Matplotlib
+>> Seaborn
+>> Warnings
+>> RandomForestClassifier
+>> KNeighborsClassifier
+
+To get correlation of each feature in the data set Plot Heat Map is generated
+
  
 ## About the dataset
 
