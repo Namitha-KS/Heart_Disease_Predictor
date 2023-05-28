@@ -29,7 +29,7 @@ I have used Google Collab Notebook to Deploy this Project
 
 Deploying it with Flask : 
 
-![Screenshot](Image.jpg)
+![Screenshot](Image.png)
 
 
 ## Further Pipeline of development
