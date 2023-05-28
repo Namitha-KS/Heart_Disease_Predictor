@@ -28,6 +28,11 @@ I have used Google Collab Notebook to Deploy this Project
 
 Deploying it with Flask : 
 
+Fork the file run it any IDE using the following commands
+- Create a virtual environment
+- Then run python app.py
+- Use the local host link found in the terminal to view the page
+
 ![Screenshot](screenshot.png)
 ![Alt Text](screenshot.png)
 
