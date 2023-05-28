@@ -7,13 +7,13 @@ With the use of UCI Kaggle dataset I have built a Machine Learning techniques to
 ## TECH STACKS
 
 Libraries of Python :
->> Numpy
->> Pandas
->> Matplotlib
->> Seaborn
->> Warnings
->> RandomForestClassifier
->> KNeighborsClassifier
+-Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Warnings
+- RandomForestClassifier
+- KNeighborsClassifier
 
 To get correlation of each feature in the data set Plot Heat Map is generated
 
@@ -26,6 +26,11 @@ This is a multivariate type of dataset which means providing or involving a vari
 ## Deployment
 
 I have used Google Collab Notebook to Deploy this Project
+
+Deploying it with Flask : 
+
+![Screenshot](Image.jpg)
+
 
 ## Further Pipeline of development
 
