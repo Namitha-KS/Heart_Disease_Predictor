@@ -28,7 +28,7 @@ I have used Google Collab Notebook to Deploy this Project
 
 Deploying it with Flask : 
 
-![Screenshot](\Image.png)
+![Screenshot](screenshot.png)
 
 ## Further Pipeline of development
 
